@@ -234,5 +234,5 @@ Assert that `actual >= expected`.
 License
 -------
 
-Assert is a fork of [Procliam](https://github.com/rowanmanning/proclaim), licensed under the [MIT][http://opensource.org/licenses/mit-license.php] license.
+Assert is a fork of [Procliam](https://github.com/rowanmanning/proclaim), licensed under the [MIT](http://opensource.org/licenses/mit-license.php) license.
 
