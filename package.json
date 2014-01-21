@@ -1,10 +1,10 @@
 {
-    "name": "assert",
-    "version": "2.0.1",
+    "name": "assert.js",
+    "version": "2.0.2",
     "author": "Rowan Manning (http://rowanmanning.co.uk/)",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dequelabs/assert.git"
+        "url": "https://github.com/dequelabs/assert.js.git"
     },
     "main": "assert.js",
     "private": true
